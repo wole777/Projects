@@ -1,2 +1,1 @@
-# Projects
-# space for recording personal portfolio projects.
+# Projects: Space for recording personal portfolio projects.
